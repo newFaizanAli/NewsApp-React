@@ -27,7 +27,7 @@ Project  : https://news-app-react-cyan.vercel.app/
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/newFaizanAli/TodoList-React.git
+    git clone https://github.com/newFaizanAli/NewsApp-React.git
     ```
 
 2. Navigate to the project directory:
