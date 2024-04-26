@@ -1,0 +1,12 @@
+.logo {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 3em;
+    background: linear-gradient(45deg, #F44336, #FF9800, #FFEB3B, #4CAF50, #2196F3, #9C27B0); /* Linear gradient color */
+    -webkit-background-clip: text; /* Clip text to the background */
+    color: transparent; /* Make text transparent */
+    letter-spacing: 3px; /* Increase letter spacing */
+    margin: 0; /* Remove default margin */
+    padding: 10px 0; /* Increase padding top and bottom */
+  }
+
+  
