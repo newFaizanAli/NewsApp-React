@@ -14,6 +14,14 @@ NewsCenter is a React-based news application that fetches news from [newsapi.org
 *Frontend:** Developed using React JS for building the user interface.
 - **Styling:** Tailwind CSS is used for styling to ensure responsiveness and a modern design.
 
+- ## Note
+
+Due to limitations on the NewsAPI plan, news articles may not be fetched in the deployed version. To view news articles, please clone the repository and run the app locally.
+
+## Demo
+
+Project  : https://news-app-react-cyan.vercel.app/
+
 ### Installing
 
 1. Clone the repository to your local machine:
@@ -57,11 +65,5 @@ npm start
 
 
 
-## Note
 
-Due to limitations on the NewsAPI plan, news articles may not be fetched in the deployed version. To view news articles, please clone the repository and run the app locally.
-
-## Demo
-
-Project  : https://news-app-react-cyan.vercel.app/
 
